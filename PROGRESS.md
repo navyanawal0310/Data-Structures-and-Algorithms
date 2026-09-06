@@ -3,7 +3,7 @@
 ## Current Phase
 
 **Phase 0 — C++ Foundations**
-
+1. Components of a C++ Program
 ## Current Topic
 
 **C++ Syntax**
